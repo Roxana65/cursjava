@@ -29,6 +29,7 @@ public class Login {
 		userIntrodus = scan.next();
 		System.out.println("Please insert your password :");
 		passIntrodus = scan.next(); 
+		scan.close();
 		
 	}
 }
