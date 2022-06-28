@@ -6,8 +6,8 @@ public class Vehicul {
 	private String nivelPoluare;
 	private String vitezaMedie;
 	
-	private String nume; 
-	private String motorizare;
+	public String nume; 
+	public String motorizare;
 	
 	public String getMotorizare() {
 		return motorizare;
