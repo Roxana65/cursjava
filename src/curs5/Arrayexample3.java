@@ -15,7 +15,7 @@ public class Arrayexample3 {
 	public static void main(String[] args) {
 
 		Arrayexample3 obj = new Arrayexample3();
-		obj.rezolvareCuFor(9);
+		obj.rezolvareCuFor(7);
 	}
 
 	public void rezolvareCuFor(int element) {
