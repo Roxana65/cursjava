@@ -13,7 +13,7 @@ public class PropertiesFileProcessor {
 	
 	public void writePropertiesFile() throws IOException {
 		try {
-			OutputStream outPut = new FileOutputStream("test.properties");
+			OutputStream outPut = new FileOutputStream("text.properties");
 			Properties prop = new Properties();
 			prop.setProperty("username", "Oana");
 			prop.setProperty("password", "pass123");
